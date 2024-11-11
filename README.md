@@ -19,4 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto pode ser visualizado [aqui](https://nicolevlc.github.io/projeto-portfolio/).
 
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./license.txt) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.txt) para mais detalhes.
